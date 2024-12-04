@@ -2,7 +2,7 @@ package advent_of_code.puzzles
 
 import advent_of_code.utils.readFile
 
-const val INPUT_PATH = "src/main/resources/inputs/day_02_input.txt"
+private const val INPUT_PATH = "src/main/resources/inputs/day_02_input.txt"
 
 fun main() {
     redNosedReportA() // 686
